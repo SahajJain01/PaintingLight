@@ -20,7 +20,7 @@ The codes have been tested for python 3.6 in both Windows 10 and Ubuntu 16.04. (
 
 To download codes:
 
-    git clone https://github.com/lllyasviel/PaintingLight.git
+    git clone https://github.com/SahajJain01/PaintingLight.git
     cd PaintingLight
     cd code
 
